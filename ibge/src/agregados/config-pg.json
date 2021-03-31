@@ -1,0 +1,8 @@
+{
+  "postgres_host": "localhost",
+  "postgres_port": 5432,
+  "postgres_database": "ibge_staging",
+  "postgres_username": "ibge_user",
+  "postgres_password": "ibge_user",
+  "postgres_schema": "data"
+}
